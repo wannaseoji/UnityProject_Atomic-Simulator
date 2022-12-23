@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7b994f35540aa7b409709b904e779680
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OneMetalTwoAlkali: {fileID: 5637655292027571322, guid: b12ca792b8ebcf948a4f21836f551ce2,
+      type: 3}
+  - TwoAlkaliFourAlkali: {fileID: 8083349886494484800, guid: 92f3c21628a70ce4d87b82d39af3c58b,
+      type: 3}
+  - CO2H2O: {fileID: 800684893462961167, guid: 5da84f25772d2044690ccfb540265cf6, type: 3}
+  - DoubleFourAlkali: {fileID: 3363223451447395473, guid: 69cda2473747f214591d86893acc4b24,
+      type: 3}
+  - AtomInformation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

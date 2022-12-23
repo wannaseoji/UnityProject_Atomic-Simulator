@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1abcf1897962be478e941297ffd1ed7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - C6H12O6: {fileID: 8233160397330638261, guid: d9dce93166f87c24990efda4881877bc,
+      type: 3}
+  - MoleculeCollisionPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
